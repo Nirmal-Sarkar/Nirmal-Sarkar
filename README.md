@@ -30,6 +30,10 @@ Thank you for visiting my GitHub profile. Let's connect, learn, and grow togethe
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+
+<img src="https://raw.githubusercontent.com/jayantverma2809/jayantverma2809/output/snake.svg" alt="Snake animation" />
+
+###
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=donisatish&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=donisatish&theme=algolia&hide_border=false)<br/>
